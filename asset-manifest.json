@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/volopay/static/css/main.073c9b0a.css",
+    "main.js": "/volopay/static/js/main.a9a60f20.js",
+    "static/js/787.b54f44a3.chunk.js": "/volopay/static/js/787.b54f44a3.chunk.js",
+    "static/media/logo.svg": "/volopay/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/volopay/index.html",
+    "main.073c9b0a.css.map": "/volopay/static/css/main.073c9b0a.css.map",
+    "main.a9a60f20.js.map": "/volopay/static/js/main.a9a60f20.js.map",
+    "787.b54f44a3.chunk.js.map": "/volopay/static/js/787.b54f44a3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.073c9b0a.css",
+    "static/js/main.a9a60f20.js"
+  ]
+}
