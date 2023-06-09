@@ -9,15 +9,15 @@ Node.js version 18.10.0 or higher
 
 1.Clone the repository to your local machine:
 
-        `git clone <repository-url>`
+        `git clone git@github.com:hkshabiya/Volopay-Test.git`
 
 2.Navigate to the project directory:
 
-        `cd <project-directory>`
+        `cd Volopay-Test`
 
 3.Install the project dependencies:
 
-       ` npm install`
+       `npm install`
 
 
 ## Running the Project
