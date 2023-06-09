@@ -9,24 +9,24 @@ Node.js version 18.10.0 or higher
 
 1.Clone the repository to your local machine:
 
-        `git clone git@github.com:hkshabiya/Volopay-Test.git`
+        git clone git@github.com:hkshabiya/Volopay-Test.git
 
 2.Navigate to the project directory:
 
-        `cd Volopay-Test`
+        cd Volopay-Test
 
 3.Install the project dependencies:
 
-       `npm install`
+       npm install
 
 
 ## Running the Project
 
 1.Start the development server:
 
-        `npm start`
+        npm start
 
-    This command will start the React development server and your project will be accessible at http://localhost:3000 in your browser.
+This command will start the React development server and your project will be accessible at http://localhost:3000 in your browser.
 
 2.Open your browser and visit http://localhost:3000 to see the running project.
 
@@ -34,7 +34,7 @@ Node.js version 18.10.0 or higher
 
 To build the project for production, use the following command:
 
-       `npm run build`
+       npm run build
 
-    This command will create a production-ready build of your React project in the build directory.
+This command will create a production-ready build of your React project in the build directory.
 
