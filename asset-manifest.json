@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/Volopay-Test/static/css/main.45b0a400.css",
-    "main.js": "/Volopay-Test/static/js/main.f0517aae.js",
+    "main.js": "/Volopay-Test/static/js/main.bd2bf41f.js",
     "static/js/787.b54f44a3.chunk.js": "/Volopay-Test/static/js/787.b54f44a3.chunk.js",
     "static/media/volopay Burner Card (1).png": "/Volopay-Test/static/media/volopay Burner Card (1).9884e5c02ccabc0dd350.png",
     "index.html": "/Volopay-Test/index.html",
     "main.45b0a400.css.map": "/Volopay-Test/static/css/main.45b0a400.css.map",
-    "main.f0517aae.js.map": "/Volopay-Test/static/js/main.f0517aae.js.map",
+    "main.bd2bf41f.js.map": "/Volopay-Test/static/js/main.bd2bf41f.js.map",
     "787.b54f44a3.chunk.js.map": "/Volopay-Test/static/js/787.b54f44a3.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.45b0a400.css",
-    "static/js/main.f0517aae.js"
+    "static/js/main.bd2bf41f.js"
   ]
 }
