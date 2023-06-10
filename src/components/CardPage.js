@@ -19,8 +19,6 @@ const CardPage = () => {
           </ul>
         </nav>
 
-        {/* A <Routes> looks through its children <Route>s and
-            renders the first one that matches the current URL. */}
         <Routes>
           <Route path="/your" element={<CardList type='your'/>} />
           <Route path="/all" element={<CardList type='all'/>} />
